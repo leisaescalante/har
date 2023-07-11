@@ -1,0 +1,105 @@
+.fondo {
+    background-image: url(fondo.jpg);
+    width: 100%;
+    height: 120vh;
+    background-color: rgb(248, 220, 248) (161, 157, 157) (184, 114, 184);
+}
+
+.titulos {
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    background-image: url(fondo.jpg);
+
+}
+
+.p1 {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+
+}
+
+.p3,
+.p4,
+.p5,
+.p6,
+.p7 {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.decocontacto {
+    background-image: url(images.jpg);
+    text-decoration: overline;
+    text-align: center;
+    font: size 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.esencias {
+    background-color: burlywood;
+    text-align: initial;
+}
+
+.compra {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-position: 30px;
+    background-color: violet;
+    text-align: center;
+    position: center;
+
+}
+
+.titulo {
+    text-align: center;
+    background-color: rgb(191, 150, 230);
+    background-image: url(sofa-mila-decoracion-tendencias.jpg);
+
+}
+
+.compra2 {
+    background-image: url(sofa-mila-decoracion-tendencias.jpg);
+    font-size: 25px;
+    position: center;
+}
+
+.fondocolor {
+    background-color: rgb(107, 76, 135);
+}
+
+.fondoprodu {
+    background-image: url(borde-rama-vector-fondo-beige_53876-164254.avif);
+    padding-top: 100px;
+    text-decoration: overline;
+    text-align: center;
+    font-size: 30px;
+}
+
+.botones {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+.piedepagina {
+    text-align: center;
+    color: black;
+
+}
